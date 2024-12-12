@@ -23,7 +23,8 @@
 - 🔭 Passionate about Development, IoT, and Problem Solving
 - 💡 Experienced in building web applications and IoT projects
 - 🌱 Always exploring new technologies and coding challenges
-- 💻 Skilled in front-end development and C++ programming
+- 💻 Skilled in front-end development,C C++,Javascript programming
+- Currently learning Backend development and building problem solving skills.
 - 📫 Reach me at: **shekharsudhanshu801@gmail.com**
 - 📄 Check out my [resume](https://drive.google.com/file/d/1bgxkIBMryU75bjevEi7_Q_KtsTciVmHO/view?usp=sharing)
 
@@ -56,5 +57,5 @@
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=sudhanshushekharr&show_icons=true&locale=en" alt="GitHub stats" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshushekharr" alt="GitHub streak stats" />
+ 
 </div>
